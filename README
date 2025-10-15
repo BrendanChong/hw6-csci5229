@@ -1,0 +1,20 @@
+Bicycle viewer with lighting
+
+author: Brendan Chong
+TOTAL TIME: 6 hours
+
+Camera keybinds:
+Left/Right arrow keys - increment/decrement the azimuth angle by 5 degrees
+Up/Down arrow keys - increment/decrement the elevation angle by 5 degrees
+W - Movest the y position of the light source up 0.1 units (only when light movement is toggled on)
+S - Move the y position of the light source down 0.1 units (only when light movement is toggled on)
+A - Moves the light source azimuth left 5 degrees (only when light movement is toggled on)
+D - Moves the light source azimuth right 5 degrees (only when light movement is toggled on)
+L - Toggle lighting on and off
+n - Toggle light movement on and off
+X - Toggle axes on and off
+M - Cycle through different perspective modes (orthogonal, perspective)
+
+USE OF AI:
+I use GitHub copilot, which occasionally autofills lines for me. I also sometimes ask ChatGPT questions if something isn't working, but these are conceptual questions only and I do not copy in code. 
+Otherwise, the rest of the code was written on my own.
